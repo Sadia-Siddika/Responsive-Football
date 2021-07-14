@@ -156,11 +156,11 @@ header{
     color: #E02C6D;
     font-size: 40px;
 }
-.video{
-    height: 315px;
+.video{ 
+    height: 315px ;
     width: 560px;
     
-}
+} 
 
 /* Extra Part 1 End */
 
@@ -244,10 +244,11 @@ footer img{
         grid-template-columns: 1fr;
         grid-gap: 1em;
     }
-    /* .Youtube-Video{
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-gap: 1em;
-    } */
+    .video{
+        width: 400px;
+        height: 315px;
+
+    }
+   
 }
 /* Responsive Design For Mobile End */
